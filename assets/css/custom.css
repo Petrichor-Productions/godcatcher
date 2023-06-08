@@ -1,0 +1,23 @@
+.banner {
+    background-color: #f0f0f0;
+
+    font-weight: bold;
+}
+
+#space {
+    padding-left: 1em;
+}
+
+#fancy-button {
+    background-color: #e0e7a7;
+    font-weight: bold;
+}
+
+div#banner-content { 
+    
+    margin: 0 auto; 
+    padding: 10px; 
+    text-align: center;
+
+    /* border: 1px solid #000; */
+}
